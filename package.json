@@ -1,0 +1,19 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "lodash": "^4.17.10",
+    "path": "^0.12.7",
+    "yargs": "^11.0.0"
+  }
+}
